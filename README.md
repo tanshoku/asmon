@@ -1,5 +1,7 @@
 # asmon
 
+![screenshot](https://raw.githubusercontent.com/tanshoku/asmon/master/asmon.png)
+
 This is a fork of asmon, intended to make it work on systems with over 1000MB of used memory, and add a few options such as ignoring buffers and cache, which are easily free-able memory and thus aguably pointless to be contabilized.
 
 ### Installation
